@@ -1,0 +1,41 @@
+# Flutter and Dart generated files
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+coverage/
+**/doc/api/
+**/flutter_*.png
+**/linked_*.ds
+
+# IDE and system state
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
+*.log
+
+# Android local files and build results
+android/local.properties
+android/.gradle/
+android/captures/
+android/key.properties
+*.jks
+*.keystore
+
+# iOS and macOS generated state
+**/Pods/
+**/.symlinks/
+**/Flutter/ephemeral/
+ios/Flutter/Generated.xcconfig
+ios/Flutter/flutter_export_environment.sh
+**/DerivedData/
+**/*.xcuserstate
+**/xcuserdata/
+
+# Other local generated files
+**/generated_plugin_registrant.dart
